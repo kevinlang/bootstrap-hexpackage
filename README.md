@@ -1,3 +1,5 @@
+**NOTE: this is a proof of concept that was never published to Hex.pm**
+
 # Bootstrap
 
 A Hex package for including Bootstrap Scss and JS files into your Mix project.
